@@ -4,7 +4,7 @@ This group project was a collaborative effort undertaken by myself, @fangxin-tan
 
 The project entailed the development of a `full-stack web application` that utilises `Python and Flask` for the backend, `Jinja` templating, `HTML`, `Bootstrap`, `CSS`, and `JavaScript` for the frontend, along with a `MySQL` database.
 
-## Functionalities
+## :swimmer:Functionalities
 
 **For all users:**
 - Register
