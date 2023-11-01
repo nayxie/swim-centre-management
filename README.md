@@ -4,6 +4,7 @@ This group project was a collaborative effort undertaken by myself, @, @, @, and
 
 The project entailed the development of a `full-stack web application` that utilises `Python and Flask` for the backend, `Jinja` templating, `HTML`, `Bootstrap`, `CSS`, and `JavaScript` for the frontend, along with a `MySQL` database.
 
+
 ### Functionalities
 
 **For all users:**
@@ -32,11 +33,14 @@ The project entailed the development of a `full-stack web application` that util
 - View reports: attendance, popularity, financials
 - Communicate: send reminders, news, and updates
 
-### My contribution
+
+### My Contribution
 - View and update profile/password for admins
 - Manage members for admins: view, add, update, and delete member details
 - View fornightly private lesson slots for users
-- Generate member attendance, and course popularity reports 
+- Generate member attendance, and course popularity reports
+
+### Interface screenshots 
 
 
 
