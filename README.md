@@ -5,10 +5,10 @@ This is a group project completed by myself and 4 other developers as an assessm
 Functionalities:
 
 for all users:
-• Register
-• Log in/out
-• View and access dashboard 
-• Manage profile and password 
+- Register
+- Log in/out
+- View and access dashboard 
+- Manage profile and password 
 
 for members:
 • View class schedules
