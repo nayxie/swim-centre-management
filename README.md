@@ -38,10 +38,11 @@ The project entailed the development of a `full-stack web application` that util
 - Generate member attendance, and course popularity reports
 
 ### Interface screenshots 
-<img width="710" alt="Screenshot 2023-11-01 at 17 01 22" src="https://github.com/nayxie/swim-centre-management/assets/132120896/e0d99ec5-a392-4700-8534-f859f1715730">
-<img width="721" alt="Screenshot 2023-11-01 at 17 02 15" src="https://github.com/nayxie/swim-centre-management/assets/132120896/d1ca56dc-ee3d-4ad6-ba90-c604ed49d09b">
+<img width="709" alt="Screenshot 2023-11-01 at 17 01 22" src="https://github.com/nayxie/swim-centre-management/assets/132120896/e0d99ec5-a392-4700-8534-f859f1715730">
+<img width="709" alt="Screenshot 2023-11-01 at 17 02 15" src="https://github.com/nayxie/swim-centre-management/assets/132120896/d1ca56dc-ee3d-4ad6-ba90-c604ed49d09b">
 <img width="709" alt="Screenshot 2023-11-01 at 17 02 45" src="https://github.com/nayxie/swim-centre-management/assets/132120896/3a6c833c-caf8-4b01-84bc-caca7af95695">
-<img width="377" alt="Screenshot 2023-11-01 at 17 03 38" src="https://github.com/nayxie/swim-centre-management/assets/132120896/5d3bfafe-5a83-4e34-9162-491123a01aeb">
+<img width="709" alt="Screenshot 2023-11-01 at 17 10 46" src="https://github.com/nayxie/swim-centre-management/assets/132120896/ec29ba6b-defd-4d29-899b-ef8cd5169784">
+
 
 
 
