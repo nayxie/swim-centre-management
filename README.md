@@ -1,6 +1,8 @@
 # Swim Centre Management System 
 
-This group project was a collaborative effort undertaken by myself, @, @, @, and @ over a span of 4 weeks. It served as an assessment for the COMP639 Studio Project at Lincoln University. The project entailed the development of a `full-stack web application` that utilises `Python and Flask` for the backend, `Jinja` templating, `HTML`, `Bootstrap`, `CSS`, and `JavaScript` for the frontend, along with a `MySQL` database.
+This group project was a collaborative effort undertaken by myself, @, @, @, and @ over a span of 4 weeks. It served as an assessment for the COMP639 Studio Project at Lincoln University. 
+
+The project entailed the development of a `full-stack web application` that utilises `Python and Flask` for the backend, `Jinja` templating, `HTML`, `Bootstrap`, `CSS`, and `JavaScript` for the frontend, along with a `MySQL` database.
 
 ### Functionalities
 
