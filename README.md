@@ -43,13 +43,14 @@ The project entailed the development of a `full-stack web application` that util
 <img width="709" alt="Screenshot 2023-11-01 at 17 02 45" src="https://github.com/nayxie/swim-centre-management/assets/132120896/3a6c833c-caf8-4b01-84bc-caca7af95695">
 <img width="709" alt="Screenshot 2023-11-01 at 17 10 46" src="https://github.com/nayxie/swim-centre-management/assets/132120896/ec29ba6b-defd-4d29-899b-ef8cd5169784">
 
-## Assessment 
+## :love_letter: Assessment 
 - Overall: 93.3/100
 - Peer Review Assessment: 100/100
 - Project Report: 98.3/100
 - Source Code Marks: 83/100
 
 **Examiner's feedback on source code**
+
 ![GroupProject1_Marks](https://github.com/nayxie/swim-centre-management/assets/132120896/c848b798-d3fb-43e4-b340-e07a847ffcc9)
 
 ## :rose: Collaborators
