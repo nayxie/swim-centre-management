@@ -4,11 +4,11 @@ This is a group project completed by myself and 4 other developers over a course
 
 ### Functionalities
 
-**For all users**
-- Register
-- Log in/out
-- View and access dashboard 
-- Manage profile and password 
+**For all users:**
+> Register
+> Log in/out
+> View and access dashboard 
+> Manage profile and password 
 
 **For members**
 - View class schedules
