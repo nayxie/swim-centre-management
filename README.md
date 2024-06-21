@@ -31,7 +31,7 @@ The project entailed the development of a `full-stack web application` that util
 - View reports: attendance, popularity, financials
 - Communicate: send reminders, news, and updates
 
-**Test accounts:** admin1 (pw:admin1); instructor1 (pw:instructor1); member1 (pw:member1)
+<sub>**Test accounts:** admin1 (pw:admin1); instructor1 (pw:instructor1); member1 (pw:member1)</sub>
 
 ## :sparkling_heart: My Contribution
 - View and update profile/password for admins
