@@ -25,7 +25,7 @@ The project entailed the development of a `full-stack web application` that util
 - View booking details
 
 **For admins:**
-- View, add, aelete, update members
+- View, add, delete, update members
 - View schedules
 - Track payment
 - View reports: attendance, popularity, financials
