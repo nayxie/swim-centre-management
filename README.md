@@ -12,7 +12,7 @@ The project entailed the development of a `full-stack web application` that util
 - View and access dashboard 
 - Mannage profile and password
   
-**For members**
+**For members:**
 - View class schedules
 - Book classes and private lessons: book and cancle
 - View booking history
@@ -30,6 +30,11 @@ The project entailed the development of a `full-stack web application` that util
 - Track payment
 - View reports: attendance, popularity, financials
 - Communicate: send reminders, news, and updates
+
+**Test accounts:**
+- admin1 (pw:admin1)
+- instructor1 (pw:instructor1)
+- member1 (pw:member1)
 
 ## :sparkling_heart: My Contribution
 - View and update profile/password for admins
