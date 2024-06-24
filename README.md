@@ -36,7 +36,7 @@ The project entailed the development of a `full-stack web application` that util
 ## :sparkling_heart: My Contribution
 - View and update profile/password for admins
 - Manage members for admins: view, add, update, and delete member details
-- View fornightly private lesson slots for users
+- View fortnightly private lesson slots for users
 - Generate member attendance, and course popularity reports
 
 ## :herb: UI Screenshots 
