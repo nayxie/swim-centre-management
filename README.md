@@ -4,6 +4,9 @@ This group project was a collaborative effort undertaken by myself, @fangxin-tan
 
 The project entailed the development of a `full-stack web application` that utilises `Python and Flask` for the backend, `Jinja` templating, `HTML`, `Bootstrap`, `CSS`, and `JavaScript` for the frontend, along with a `MySQL` database.
 
+**Test accounts:** 
+admin1 (pw:admin1); instructor1 (pw:instructor1); member1 (pw:member1)
+
 ## :blossom: Functionalities
 
 **For all users:**
@@ -30,8 +33,6 @@ The project entailed the development of a `full-stack web application` that util
 - Track payment
 - View reports: attendance, popularity, financials
 - Communicate: send reminders, news, and updates
-
-**Test accounts:** admin1 (pw:admin1); instructor1 (pw:instructor1); member1 (pw:member1)
 
 ## :sparkling_heart: My Contribution
 - View and update profile/password for admins
